@@ -3,7 +3,7 @@ pandas
 streamlit
 time
 opencv==3.1
-tensorflow as tf
-matplotlib.pyplot as plt
+tensorflow
+matplotlib.pyplot
 doctr
 os
