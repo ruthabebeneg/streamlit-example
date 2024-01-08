@@ -5,4 +5,4 @@ opencv-python
 tensorflow
 matplotlib
 doctr
-os
+
