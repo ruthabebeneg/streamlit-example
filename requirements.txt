@@ -1,7 +1,7 @@
 altair
 pandas
 streamlit
-opencv==3.1
+opencv-python
 tensorflow
 matplotlib.pyplot
 doctr
