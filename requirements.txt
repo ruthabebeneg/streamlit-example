@@ -3,6 +3,6 @@ pandas
 streamlit
 opencv-python
 tensorflow
-matplotlib.pyplot
+matplotlib
 doctr
 os
